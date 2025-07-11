@@ -10,7 +10,7 @@ I'm passionate about using technology to solve real-world problems — especiall
    <a href="https://www.instagram.com/your_instagram">
       <img alt="Instagram" title="Follow me on Instagram" src="https://img.shields.io/badge/@your_instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
    </a>
-   <a href="https://www.linkedin.com/in/your_linkedin">
+   <a href="www.linkedin.com/in/isabelli-araújo-pinho-663537368">
       <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
 </p>
