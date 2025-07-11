@@ -38,6 +38,6 @@ I'm passionate about using technology to solve real-world problems — especiall
 
 ### 📊 GitHub Stats
 
-![Isabelli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsabelliPinho_icons=true&theme=gruvbox)
+![Isabelli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=@IsabelliPinho_icons=true&theme=gruvbox)
 
 ---
