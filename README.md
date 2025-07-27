@@ -2,7 +2,7 @@
 
 **`Computer Science Student | Python & Machine Learning Enthusiast`**
 
-I'm an undergraduate Computer Science student at the Federal University of Ceará (UFC), Brazil 🇧🇷. I'm currently exploring the world of programming through Python, with a growing focus on Machine Learning and PyTorch. I'm also involved in a research project in Engine Lab, partnership with Huawei, developing a technology-based solution in the field of dentistry that will be applied to Brazil’s public health system (SUS).
+I'm an undergraduate Computer Science student at the Federal University of Ceará (UFC), Brazil 🇧🇷. I'm currently exploring the world of programming through Python, with a growing focus on Machine Learning and PyTorch. 
 
 I'm passionate about using technology to solve real-world problems — especially in healthcare, education, and social inclusion. As I grow as a developer and researcher, I enjoy documenting my learning journey.
 
@@ -17,14 +17,6 @@ I'm passionate about using technology to solve real-world problems — especiall
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <br />
-
----
-
-### 🚀 Projects & Research
-
-- 🔬 **Research Project (Engine Lab + Huawei + UFC)** – AI-based dental solutions for brazilian public health (SUS)
-- 🤖 PyTorch learning projects (Coming soon!)
-- 📊 Data analysis notebooks with Pandas & Python
 
 ---
 
