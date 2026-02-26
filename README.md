@@ -69,15 +69,11 @@ Me chamo Isabelli Araújo Pinho, tenho 20 anos e sou natural do Ceará. Concluí
 
 <p align="center">
   <img 
-    height="200" 
+    height="180" 
     src="https://github-readme-stats.vercel.app/api?username=IsabelliPinho&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-    alt="GitHub Stats" 
   />
   <img 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelliPinho&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-    alt="Top Langs" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelliPinho&theme=tokyonight&layout=compact&langs_count=9" 
   />
 </p>
-
-<br clear="both">
