@@ -2,7 +2,7 @@
 
 **`Computer Science Student | FullStack Developer | AI Enthusiast`**
 
-Atualmente cursando **Ciência da Computação na UFC**. Sou técnica em informática pela EEEP Manoel Mano e apaixonada por construir soluções que unem back-end robusto, interfaces modernas e inteligência de dados.
+Atualmente cursando **Ciência da Computação na UFC**. Sou técnica em informática e gosto de construir soluções que unem back-end robusto, interfaces modernas e inteligência de dados.
 
 ---
 
